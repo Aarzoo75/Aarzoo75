@@ -2,13 +2,13 @@
 
 
 <p align="center">
-  <img align="center" width="25%" src="/assets/profile.png" alt="header"/>
+  <img align="center" width="25%" src="./assets/profile.png" alt="header"/>
   <br>
   <h5 align="center">console.log('Forever Explorer');</h5>
 </p>
 
 <p align="center">
-  <img src="assets/Banner.jpg" alt="Banner"/>
+  <img src="./assets/banner.png" alt="Banner"/>
 </p>
 
 
@@ -27,8 +27,9 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 <p align="center">
+
   <a title="Instagram" href="https://www.instagram.com/the_bong_student/">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png " width="50" height="50"  />
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="50" height="50"/>
   </a>
   
   <a title="Linkedin" href="https://www.linkedin.com/in/aarzoo75/">
